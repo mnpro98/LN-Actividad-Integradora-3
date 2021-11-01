@@ -1,7 +1,7 @@
 # LN-Actividad-Integradora-3
 
 Activiad Integradora #3
-Integrantes del equipo:  María Fernanda Mendoza, Isis María Camila Muñoz Salamanca, Mauricio Náñez Pro y David Martín Oliva Zavala.
+Integrantes del equipo:  María Fernanda Mendoza, Isis María Camila Muñoz Salamanca, Mauricio Náñez Pro, David Martín Oliva Zavala y Carolina Obregón.
 
 Intrucciones:
 -Descargar los archivos incluidos en el repositorio
